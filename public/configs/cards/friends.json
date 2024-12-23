@@ -1,0 +1,15 @@
+{
+  "title": "FriendWeb",
+  "links": [
+      {
+          "title": "C区实验室",
+          "url": "http://10.59.12.128/",
+          "icon": "male"
+      },
+      {
+          "title": "Nadl中心",
+          "url": "http://10.59.12.49/",
+          "icon": "school"
+      }
+  ]
+}

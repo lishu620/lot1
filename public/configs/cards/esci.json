@@ -1,0 +1,41 @@
+{
+  "title": "Nadl中心",
+  "url": "/",
+  "links": [
+      {
+          "title": "云盘",
+          "url": "http://10.59.12.159/",
+          "icon": "upload"
+      },
+      {
+          "title": "超级计算",
+          "url": "/",
+          "icon": "server"
+      },
+      {
+          "title": "私服仓库",
+          "url": "/",
+          "icon": "repo"
+      },
+      {
+          "title": "代码托管",
+          "url": "/",
+          "icon": "gitlab"
+      },
+      {
+          "title": "在线LaTeX",
+          "url": "/",
+          "icon": "doc"
+      },
+      {
+          "title": "网络测速",
+          "url": "/",
+          "icon": "speedometer"
+      },
+      {
+          "title": "远程控制",
+          "url": "/",
+          "icon": "monitor"
+      }
+  ]
+}
